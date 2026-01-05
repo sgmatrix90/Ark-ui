@@ -1,0 +1,91 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 2,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://i.postimg.cc/RZMbJ4nS/Image-Jan-5-2026.png",
+			"disableicontext": false,
+			"iconposition": 3,
+			"icontextcolor": 8,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.postimg.cc/nhHw9pQn/Image-Jan-3-2026.png",
+				"content": [
+					{
+						"title": "◤──•~Welcome to Ascendra!~•──◥",
+						"text": "◤──•~Welcome to Ascendra PvE Cluster~•──◥\r\n\r\nWe're a laid-back, feature-packed PvE Ark Ascended server built for players who just want to enjoy the game.\r\n\r\n\r\n~•──◥Staff Team!~•──◥\r\nCommunity Manager-Matrix\r\nHead Admin-Joe93\r\n\r\n~•──◥Progression & Perks~•──◥\r\n-Monthly Battlepass - COMING SOON\r\n-In-game Points Shop - COMING SOON\r\n-Better Breeding System\r\n-Boosted Rate Weekends - COMING SOON\r\n-Play2Win: Earn points for our ingame shop with your playtime - COMING SOON\r\n-Automated donation system via our website -COMING SOON\r\n-No wipes Friendly, helpful community"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Server Info",
+				"imageurl": "https://i.postimg.cc/nhHw9pQn/Image-Jan-3-2026.png",
+				"content": [
+					{
+						"title": "◤──•~Rates & Settings!~•──◥",
+						"text": "◤──•~Rates and Settings~•──◥\r\n\r\n✢ x5 Harvest.\r\n\r\n✢ x2 XP.\r\n\r\n✢ x15 Taming Speed.\r\n\r\n✢ No mating cooldown.\r\n\r\n✢ x300 Egg hatching speed.\r\n\r\n✢ x100 Mature Speed.\r\n\r\n✢ 210 Max wild dino level.\r\n\r\n✢ 266 Max wild wyvern level.\r\n\r\n✢ 230 Max wild shiny dino level.\r\n\r\n✢ 105 Max player level (without ascensions)\r\n\r\n✢ 0.5 Food drain.\r\n\r\n✢ 0.5 Water drain.\r\n\r\n✢ Flyer speed levelling enabled.\r\n\r\n✢ Flyer speed levelling enabled.\r\n\r\n✢ Player speed levelling enabled.\r\n\r\n✢ Cave flying enabled.\r\n\r\n✢ 5 Min item de-spawn timer.\r\n\r\n✢ 1 Hour death cache de-spawn timer.\r\n\r\n✢ No wipe.\r\n\r\n✢ 1K Weight per level.\r\n\r\n✢ Anyone can imprint.\r\n\r\n✢ dinos raise and imprint in SCS pods.\r\n\r\n✢ Can capture dinos in combat using SCS pods.\r\n\r\n✢ 12 Man tribe limit\r\n\r\n✢ Alliances allowed.\r\n\r\n✢ Declare war disabled."
+					},
+					{
+						"title": "◤──•~Mods!~•──◥",
+						"text": "◤──•~DINO MODS~•──◥\r\n\r\n✢ Shiny Dinos Ascended\r\n\r\n✢ MarniiMods Griffins\r\n\r\n✢ Moro's Indomitable Duo\r\n\r\n✢ Runic Wyverns\r\n\r\n✢ STRUCTURE AND DECOR MODS\r\n\r\n✢ Cybers Structures QoL+\r\n\r\n✢ Scribbles – Better Signs\r\n\r\n◤──•~QUALITY OF LIFE MODS~•──◥\r\n\r\n✢ Super Spyglass Plus\r\n\r\n✢ TG Stacking Mod 10000-90\r\n\r\n✢ Crafting Skill Potion\r\n\r\n✢ Automated Ark\r\n\r\n✢ Super Cryo Storage\r\n\r\n✢ Nanoh's Reusables\r\n\r\n✢ Awesome Teleporters!\r\n\r\n◤──•~OTHER MODS~•──◥\r\n\r\n✢ Dino Colour Tokens\r\n\r\n✢ Awesome ARK Tools\r\n\r\n✢ Breeding Stopper\r\n\r\n✢ Custom Dino Levels\r\n\r\n✢ Better Breeding\r\n\r\n✢ Battle Pass UI\r\n\r\n✢ GameServerApp.com integration\r\n\r\n✢ MX-E Ark Shop UI\r\n\r\n✢ Spawn Blocker\r\n\r\n✢ WBUI2\r\n\r\n◤──•~COSMETIC AND WEAPON MODS~•──◥\r\n\r\n✢ Cliffans Weapons: Modern\r\n\r\n◤──•~MAP SPECIFIC MODS~•──◥\r\n\r\n✢ Safe OSD & Element Veins (Extinction)\r\n\r\n✢ Orbital Satellite Uplink (Extinction)"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Extra info and Commands",
+				"imageurl": "https://i.postimg.cc/nhHw9pQn/Image-Jan-3-2026.png",
+				"content": [
+					{
+						"title": "◤──•~Extra Info!~•──◥",
+						"text": "◤──•~LOOT DROPS!~•──◥\r\n\r\nWhite: Cosmetics\r\nWhite: Bonus: Rare Resources\r\nGreen: Consumables and Dye's\r\nBlue: Saddles\r\nPurple: Armor\r\nYellow: Weapons and Ammo\r\nRed: Artifacts/Tributes and Color Tokens\r\n\r\nBuried Treasure: Saddle, Armor and Weapon Bp's ONLY BPS\r\n\r\nAll modded saddles, weapons, armor, cosmetics, and consumables should be included in the tables also.\r\n\r\n◤──•~Weekend Boosted Rates!~•──◥\r\n\r\nOn weekends, we have some boosted rates for players to enjoy!\r\n\r\nThese last from 11pm Friday – 11pm Sunday (PST)\r\n\r\nWhat are the boosts?\r\nXP x2\r\nPlayer Harvest x2\r\nDino Harvest x2\r\nTaming x1.3\r\n\r\nThese are x2 our normal rates, eg server xp rate is 2x, making the weekend 4x\r\n\r\n◤──•~Additional Settings and Info!~•──◥\r\n\r\nOffline Player Protection – PLAYERS AND DINOS CANNOT BE DAMAGED OFFLINE\r\n\r\nTribes cannot mate with other tribes dinos unless allied\r\n\r\nPlayers cannot turn on/off other tribes structures (unless unlocked)\r\n\r\nPlayers cannot open the inventory of other tribes structures unless unlocked/pin coded\r\n\r\nOil pumps and tree sap taps are auto unlocked\r\n\r\nCannot drag offline players bodies unless allied\r\n\r\nFlyers cannot pickup non allies players\r\n\r\nCannot pickup fertilized eggs belonging to another tribe\r\n\r\nCannot pickup items belonging to another tribe unless allied\r\n\r\nDropped wyvern eggs despawn after 60s if not incubating at an air con or campfire\r\n\r\n– These are in place to prevent griefing and stealing"
+					},
+					{
+						"title": "◤──•~Useful Commands!~•──◥",
+						"text": "F1 – Open Battlepass\r\nF2 – Open in-game shop\r\nF3 – Open This Menu\r\n\r\n/Giveengrams – Unlocks all engrams up to current level\r\n\r\n/decaytime – Shows decay timer on a tribes structures\r\n\r\n/farm – Enables solo farm"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Rules",
+				"imageurl": "https://i.postimg.cc/nhHw9pQn/Image-Jan-3-2026.png",
+				"content": [
+					{
+						"title": "◤──•~General Rules!~•──◥",
+						"text": "◤──•~RULE Ⅰ~•──◥\r\nDo not use Human or 123 as a player or tribe name, if you accidentally do, please open a ticket to request a name change from a member of staff.\r\n\r\n◤──•~RULE Ⅱ~•──◥\r\nClean up after yourself, this includes traps, old bases and Dinos.\r\nIf you find any of these things and wish to report to staff please report this in discord. If a tamed Dino is found and appears abandoned/lost we have a \"lost property\" channel in the discord server.\r\n\r\n◤──•~RULE Ⅲ~•──◥\r\nDo not use exploits, glitches, cheats or dupe items. These are banable offences. If you are a witness to any of the above acts please report to admin with photo/video evidence where possible.\r\n\r\n◤──•~RULE Ⅳ~•──◥\r\nNo griefing, kiting, trolling or stealing. If you are a witness to any of the above acts please report to admin using with photo/video evidence where possible.\r\n\r\n◤──•~RULE Ⅴ~•──◥\r\nDo not leave tames at any obelisk, all obelisks must remain open at all times for players wishing to enter boss fights. If a tame is found it may be admin-deleted.\r\n\r\n◤──•~RULE Ⅵ~•──◥\r\nDo not leave Dinos at other player bases without consent from the owner of the base, if the player objects and you are not available to move the Dino it may be admin-deleted.\r\n\r\n◤──•~RULE Ⅶ~•──◥\r\nPlease keep the number of Dinos left outside of bases to a minimum, try and be conscious of lag. With the SCS mod any resource generating Dinos will produce resources while in the terminal.\r\n\r\n◤──•~RULE Ⅷ~•──◥\r\nDo not drop unwanted eggs from inventory, either eat them or use them for kibble crafting."
+					},
+					{
+						"title": "◤──•~Building Rules!~•──◥",
+						"text": "◤──•~RULE Ⅰ~•──◥\r\nBases must be no bigger than 300m x 300m – 2 bases per tribe per map – You can check the size of your base with the reusable tek spyglass.\r\n\r\nExceptions can be made for \"base locations\" like islands, ruins, plateaus, caves etc. If unsure make a ticket.\r\n\r\n◤──•~RULE Ⅱ~•──◥\r\nBases must be at least 200m from any other player base from all sides.\r\n\r\n◤──•~RULE Ⅲ~•──◥\r\nBases must not be built in any high resource or high Dino spawn areas.\r\n\r\n◤──•~RULE Ⅳ~•──◥\r\nBases must not prevent other players from accessing artifact caves or explorer notes.\r\n\r\n◤──•~RULE Ⅴ~•──◥\r\nIf you build within a cave please clear it up after you are finished.\r\n\r\n◤──•~RULE Ⅵ~•──◥\r\nIf you build in a player spawn area please ensure there is a clear pathway out of your base that players can follow.\r\n\r\n◤──•~RULE Ⅶ~•──◥\r\nNo base building on Oasisaur's (oasisuars must remain in a SCS pod when not in use – this is to help limit the amount of lag on a map)\r\n\r\n◤──•~RULE Ⅷ~•──◥\r\nNo building in the surface enterances. Teleporters/outposts are fine in the blue entrance for metal farming."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/XE6nUzdKx5"
+			},
+			{
+				"text": "Website",
+				"url": ""
+			},
+			{
+				"text": "https://discord.gg/XE6nUzdKx5",
+				"url": ""
+			}
+		],
+		"version": 0
+	}
+}
