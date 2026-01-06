@@ -12,7 +12,7 @@
 			"icontextcolor": 8,
 			"openonstart": true,
 			"openonstartonlynewplayers": true,
-			"updateinterval": 0
+			"updateinterval": 10
 		},
 		"tabs": [
 			{
@@ -86,6 +86,6 @@
 				"url": ""
 			}
 		],
-		"version": 0
+		"version": 1
 	}
 }
